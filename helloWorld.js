@@ -10,3 +10,6 @@ const goodbyeWorld = function() {
 };
 
 console.log(goodbyeWorld());
+
+console.log("Hello again");
+
